@@ -1,20 +1,30 @@
 body {
-    background-color: bisque;
+    background-color: url(img/bg-desktop.webp);
     font-family: Bai Jamjuree;
 }
 
 #container {
     display: flex;
-
 }
-.cartão{
+
+
+
+
+
+
+
+
+
+
+
+.cartão {
     margin: 1rem 1rem;
     background-color: aqua;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
-.cartão_conteudo{
+.cartão_conteudo {
     text-align: center;
    /*background-color: aquamarine;*/
     height: 100%;
